@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictactoe-pwa-a5fcb": {
+      "hosting": {
+        "myapp": [
+          "tictactoe-pwa-a5fcb"
+        ]
+      }
+    }
+  }
+}
